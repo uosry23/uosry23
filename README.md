@@ -14,12 +14,12 @@
 
 I'm a full stack developer focused on **management systems and business software** — the kind of platforms a company actually runs on: customers, bookings, sessions, units, leads, staff, payments, and the reporting on top of them.
 
-- 🔹 **CRM & internal systems** — customer records, leads/pipelines, agents and brokers, follow-ups, activity history
-- 🔹 **Admin dashboards** — KPIs, occupancy & revenue trends, peak-hour analytics, filters, search, inline actions
-- 🔹 **Booking & scheduling** — availability grids, session lifecycle (check-in / check-out / extend / cancel), overlap prevention
-- 🔹 **Roles & permissions** — admin vs. member experiences, Row Level Security, ownership checks on every write
-- 🔹 **Backends** — REST APIs, Node/Next.js server actions, Supabase/Postgres schemas with triggers and indexes
-- 🔹 **Arabic-first UX** — full RTL layouts, Arabic + English interfaces, clean mobile behaviour
+- **CRM & internal systems** — customer records, leads/pipelines, agents and brokers, follow-ups, activity history
+- **Admin dashboards** — KPIs, occupancy & revenue trends, peak-hour analytics, filters, search, inline actions
+- **Booking & scheduling** — availability grids, session lifecycle (check-in / check-out / extend / cancel), overlap prevention
+- **Roles & permissions** — admin vs. member experiences, Row Level Security, ownership checks on every write
+- **Backends** — REST APIs, Node/Next.js server actions, Supabase/Postgres schemas with triggers and indexes
+- **Arabic-first UX** — full RTL layouts, Arabic + English interfaces, clean mobile behaviour
 
 I care about the parts people actually notice: the app works on the first click, the data is real, and there's a readable README explaining how to run it.
 
