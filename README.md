@@ -54,7 +54,6 @@ I care about the parts people actually notice: the app works on the first click,
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
-| **Workspace Hub** | Co-working management system: book desks, booths and meeting rooms, manage member sessions, and run occupancy, revenue and member dashboards. | Next.js 16 · TypeScript · Tailwind v4 · Supabase | [Code](https://github.com/uosry23/workspace-hub) |
 | **Workspace Demo** | Arabic-first workspace dashboard: customers, check-in/check-out, shared areas and private rooms, products, payments and reports. | Next.js · React 19 · TypeScript · Supabase | [Live](https://workspace-demo-sigma.vercel.app) · [Code](https://github.com/uosry23/workspace-demo) |
 | **Real Estate CRM** | RTL Arabic system for real-estate developers and marketing teams: projects, units, leads, brokers, after-sales and maintenance. | Next.js · TypeScript · Supabase | [Live](https://realstate-phi-two.vercel.app) · [Code](https://github.com/uosry23/realstate) |
 | **My Portfolio** | Personal portfolio site with hero, about, projects, skills, contact, resume download and dark/light mode. | React 19 · Tailwind · Framer Motion | [Live](https://portfolio-n3g2.vercel.app/) · [Code](https://github.com/uosry23/portfolio) |
